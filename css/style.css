@@ -1,2 +1,11 @@
-
+#hero {
+ background-image: url(../images/kamil-pietrzak-x7bJ8pNBNdI-unsplash.jpg);
+ background-position: center center;
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-color: black;
+}
   
+#hero .d-flex {
+    height: 70vh;
+}
